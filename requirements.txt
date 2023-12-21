@@ -1,6 +1,6 @@
-geopandas @ file:///home/conda/feedstock_root/build_artifacts/geopandas_1697031985100/work
-matplotlib @ file:///D:/bld/matplotlib-suite_1698868708067/work
-osmnx @ file:///home/conda/feedstock_root/build_artifacts/osmnx_1698621998831/work
-shapely @ file:///D:/bld/shapely_1675079886543/work
-streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1701380372672/work
+geopandas 
+matplotlib 
+osmnx 
+shapely 
+streamlit
 
